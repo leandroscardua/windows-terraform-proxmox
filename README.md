@@ -18,7 +18,7 @@ set TF_VAR_pm_password=''
 set TF_VAR_target_node=''
 ```
 #Terraform
-# add the variables below, before run it.
+# Add the variables below, before run it.
 terraform init
 terraform fmt
 terraform validate
