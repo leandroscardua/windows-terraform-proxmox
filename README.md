@@ -1,4 +1,4 @@
-# The command below, will be use to create an ISO image with the content of the folder file.
+# The command below, will be use to create a Windows VM using a template as based image.
 #
 #Linux
 #
