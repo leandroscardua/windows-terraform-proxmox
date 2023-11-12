@@ -24,3 +24,9 @@ terraform fmt
 terraform validate
 terraform plan
 terraform apply -auto-approve
+
+# Documentation
+#
+```
+https://registry.terraform.io/providers/Telmate/proxmox/latest/docs/resources/vm_qemu
+```
